@@ -93,7 +93,7 @@ NoTurningBack	577961141
 linjun	linjunhe
 不思八九	Liuzt1025
 linjun	linjunhe
-cute.	yayabb（yaya-bb）
+cute.	yaya-bb
 jaxvan	jax-van
 小橙子	yikuanglancheng
 小兔儿	竹林1110
